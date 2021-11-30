@@ -1,5 +1,6 @@
 package TestTN;
 
+//输入3个数a,b,c，按大小顺序输出。
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
